@@ -1,0 +1,32 @@
+#map{
+   
+    border-radius: 10px;
+    width: 600px;
+    margin: auto;
+    border: 2px solid yellow;
+    display: flex;
+    justify-content: space-around;
+    align-items: center
+
+}
+#map:hover{
+    color:rgb(152, 248, 25);
+    background-color: rgb(211, 93, 93);
+}
+#buton{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.fa-user{
+    margin-right: 10px;
+    font-size: 20px;
+}
+.fa-envelope{
+    margin-right: 10px;
+    font-size: 20px;
+}
+.fa-key{
+    margin-right: 10px;
+    font-size: 20px;
+}
